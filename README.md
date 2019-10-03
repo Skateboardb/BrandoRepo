@@ -1,2 +1,2 @@
 # BrandoRepo
-foo bar
+This is a public directory
